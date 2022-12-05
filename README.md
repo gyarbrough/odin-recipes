@@ -1,2 +1,3 @@
 # odin-recipes
-Recipes project for The Odin Project
+Recipes webpage for The Odin Project
+Demonstrate basic knowledge of HTML
